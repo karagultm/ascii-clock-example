@@ -21,7 +21,7 @@ efekti verir.
 ``` bash
 # Depoyu klonla
 git clone https://github.com/karagultm/ascii-clock-example.git
-cd ascii-clock
+cd ascii-clock-example
 
 # Gerekli bağımlılıkları indir
 go mod tidy
